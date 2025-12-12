@@ -107,7 +107,7 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/anurag1352/full-stack_chatApp.git
 ```
 
 ```bash
